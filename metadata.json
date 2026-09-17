@@ -1,0 +1,6 @@
+{
+  "name": "CinettovPizza",
+  "description": "Premium Italian pizza delivery with handmade dough, fresh ingredients, and wood-fired perfection delivered to your door.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
